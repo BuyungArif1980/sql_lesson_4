@@ -11,3 +11,5 @@ Menambahkan, Memperbarui, dan Menghapus Data
 
 Memantapkan Keterampilan Anda
 - Mempraktikkan Hal Yang Sudah Anda Pelajari
+
+![Pengolahan Data SQL](./1564370617683.png "SQL Study IV")
